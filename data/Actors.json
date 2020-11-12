@@ -1,0 +1,9 @@
+[
+null,
+{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"悠然","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"悠然","traits":[],"initialLevel":1,"maxLevel":99,"name":"悠然","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"一军","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"一军","traits":[],"initialLevel":1,"maxLevel":99,"name":"一军","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"石鱿鱼","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"石鱿鱼","traits":[],"initialLevel":1,"maxLevel":99,"name":"石鱿鱼","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"月月","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"月月","traits":[],"initialLevel":1,"maxLevel":99,"name":"月月","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
